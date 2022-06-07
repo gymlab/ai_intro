@@ -1,3 +1,13 @@
 /mnist_cnn/.ipynb_checkpoints/
 /mnist_cnn/checkpoint/
 /mnist_cnn/MNIST/
+/SRCNN/DB.zip
+/SRCNN/DB/
+/SRCNN/DB
+/SRCNN/log
+/SRCNN/log/
+/SRCNN/.*
+/*/__pycache__
+/*/__pycache__/
+/SRCNN/checkpoint
+/SRCNN/checkpoint/
